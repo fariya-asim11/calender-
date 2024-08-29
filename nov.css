@@ -1,0 +1,25 @@
+body {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(198, 134, 183, 1) 0%, rgba(223, 198, 179, 1) 0%, rgba(237, 169, 91, 0.9920343137254902) 100%, rgba(221, 219, 24, 1) 100%);
+}
+
+table, th, td{
+    width: 100%;
+    table-layout: fixed;
+    font-size: 27px;
+    border-collapse: collapse;
+    border: black;
+    font-family: Elaphant;
+    letter-spacing: 1px;
+
+}
+
+
+td:hover {
+     background:rgb(236, 43, 43);
+     border-radius: 100px;
+}
+
+.card {
+    border-color: rgb(129, 128, 128);
+}
